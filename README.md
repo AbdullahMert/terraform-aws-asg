@@ -2,6 +2,6 @@
 
 ```
 module "asg" {
-    source = "AbdullahMert/asg/aws 
+    source = "AbdullahMert/asg/aws" 
 }
 ```
